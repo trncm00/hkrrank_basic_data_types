@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/TAM_1/CLionProjects/C++_Self_Study/Hacker_Rank_Exercises/basic_data_types/main.cpp
+iostream
+-
+cstdio
+-
+
